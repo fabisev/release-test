@@ -1,0 +1,10 @@
+<settings>
+    <servers>
+        <!-- Used by Approach 1: Maven Release Plugin + central-publishing-maven-plugin -->
+        <server>
+            <id>central</id>
+            <username>jdycdh</username>
+            <password>8QIj555eiiE1JLdGDFF0bQ5ij6DTyKsZo</password>
+        </server>
+    </servers>
+</settings>
