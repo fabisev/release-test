@@ -1,0 +1,44 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/Users/fabisev/test-folder/release-test/src/main/java:/Users/fabisev/test-folder/release-test/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/fabisev/test-folder/release-test/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Release Test 0.1.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/fabisev/test-folder/release-test/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Release Test 0.1.0 API'
+io.github.fabisev
+/Users/fabisev/test-folder/release-test/src/main/java = 1783456451597
+/Users/fabisev/test-folder/release-test/target/generated-sources/annotations = 1783503843710
+/Users/fabisev/test-folder/release-test/target/reports/apidocs/tag-search-index.js = 1783503845127
+/Users/fabisev/test-folder/release-test/target/reports/apidocs/overview-tree.html = 1783503845121
+/Users/fabisev/test-folder/release-test/target/reports/apidocs/module-search-index.js = 1783503845126
+/Users/fabisev/test-folder/release-test/target/reports/apidocs/index.html = 1783503845132
+/Users/fabisev/test-folder/release-test/target/reports/apidocs/package-search-index.js = 1783503845126
+/Users/fabisev/test-folder/release-test/target/reports/apidocs/index-all.html = 1783503845130
+/Users/fabisev/test-folder/release-test/target/reports/apidocs/allpackages-index.html = 1783503845126
+/Users/fabisev/test-folder/release-test/target/reports/apidocs/member-search-index.js = 1783503845127
+/Users/fabisev/test-folder/release-test/target/reports/apidocs/help-doc.html = 1783503845135
+/Users/fabisev/test-folder/release-test/target/reports/apidocs/element-list = 1783503845110
+/Users/fabisev/test-folder/release-test/target/reports/apidocs/search.html = 1783503845131
+/Users/fabisev/test-folder/release-test/target/reports/apidocs/allclasses-index.html = 1783503845125
+/Users/fabisev/test-folder/release-test/target/reports/apidocs/type-search-index.js = 1783503845126
