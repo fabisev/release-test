@@ -1,13 +1,18 @@
 project:
   name: release-test
-  version: 0.2.0
+  version: 0.3.0
   description: Minimal project to test Maven Central publishing
   links:
     homepage: https://github.com/fabisev/release-test
   authors:
     - fabisev
   license: MIT
+  copyright: fabisev
   inceptionYear: "2026"
+
+release:
+  github:
+    skipRelease: true
 
 signing:
   active: ALWAYS
